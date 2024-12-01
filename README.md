@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Studying Information Systems 6/8<br><br>Coding in HTML and CSS<br><br>Learning C, C++ and Java</p>
+<p align="left">Studying Information Systems 6/8<br><br>Coding in HTML and CSS<br><br>Beginner in C and C++</p>
 
 ###
 
@@ -51,9 +51,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/LucianoTBrum/LucianoTBrum/output/snake.svg" alt="Snake animation" />
 
 ###
