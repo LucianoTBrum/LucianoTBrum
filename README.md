@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">College 6/8<br><br>Coding in HTML and CSS<br><br>Beginner in C and C++</p>
+<p align="left">Studying Information Systems 6/8<br><br>Coding in HTML and CSS<br><br>Beginner in C and C++</p>
 
 ###
 
@@ -26,6 +26,21 @@
 
 ###
 
+<h2 align="left">Socials</h2>
+
+###
+
+<div align="left">
+  <a href="http://www.linkedin.com/in/lucianotbrum" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/luciano_tbjr?igsh=YTlwZnljYzFpdm9k" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
@@ -39,17 +54,6 @@
 
 ###
 
-<h2 align="left">Socials</h2>
-
-###
-
-<div align="left">
-  <a href="http://www.linkedin.com/in/lucianotbrum" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/luciano_tbjr?igsh=YTlwZnljYzFpdm9k" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/LucianoTBrum/LucianoTBrum/output/snake.svg" alt="Snake animation" />
 
 ###
