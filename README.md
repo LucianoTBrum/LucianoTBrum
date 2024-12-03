@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Studying Information Systems 6/8<br><br>Coding in HTML and CSS<br><br>Beginner in C and C++</p>
+<p align="left">University 6/8<br><br>Coding in HTML and CSS<br><br>Beginner in C and C++</p>
 
 ###
 
