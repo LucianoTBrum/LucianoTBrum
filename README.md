@@ -54,8 +54,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="150" src="https://media1.tenor.com/m/l9D2veYHMXwAAAAd/helldivers-2.gif"  />
 </div>
 
 ###
