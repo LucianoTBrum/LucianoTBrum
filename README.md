@@ -18,6 +18,23 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucianoTBrum&radius=10&theme=redical&area=true&order=5&hide_border=true&custom_title=Contribution%20Graph" height="200" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/luciano_tbjr/#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="http://www.linkedin.com/in/lucianotbrum" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -36,23 +53,8 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/luciano_tbjr/#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="http://www.linkedin.com/in/lucianotbrum" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="150" src="https://camo.githubusercontent.com/f87d24263354edf96f66b701c724c6d100ae210770c6ff5b69c787cc23b726ba/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f6c394432766559484d587741414141642f68656c6c6469766572732d322e676966"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucianoTBrum&radius=10&theme=redical&area=true&order=5&hide_border=true&custom_title=Contribution%20Graph" height="200" alt="activity-graph graph"  />
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/f87d24263354edf96f66b701c724c6d100ae210770c6ff5b69c787cc23b726ba/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f6c394432766559484d587741414141642f68656c6c6469766572732d322e676966"  />
 </div>
 
 ###
