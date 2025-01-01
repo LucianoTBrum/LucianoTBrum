@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi 👋! My name is Luciano and I am an Information Systems student.<br><br>College: 6/8<br><br>Coding in HTML and CSS<br><br>Beginner in C and C++ and Java</p>
+<p align="left">Hi 👋! My name is Luciano and I am an Information Systems student.<br><br>College: 6/8<br><br>Coding in HTML and CSS<br><br>Beginner in C, C++ and Java</p>
 
 ###
 
