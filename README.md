@@ -67,6 +67,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/LucianoTBrum/LucianoTBrum/output/snake.svg" alt="Snake animation" />
 
 ###
